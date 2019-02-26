@@ -1,0 +1,274 @@
+.topnav {
+    float: right;
+    margin: 13px 170px 0px 0px;
+}
+
+/* html { 
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/white-waves.png);
+    background-position: center;
+    
+}*/
+
+.aboutMe {
+    text-align: center;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 15px;
+}
+ 
+.portfolio {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 15px;
+}
+
+.contact {
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 15px;
+
+}
+
+.header {
+    position: relative;
+    height: 55px;
+}
+
+h1 {
+    margin: 10px 10px 10px 190px;
+    border: 2px solid #4aaaa5;
+    background-color: #4aaaa5;
+    width: 235px;
+    padding-left: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    color: white;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+
+h2 {
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    font-size: 28px;
+}
+
+img {
+    float: left;
+    margin: 10px;
+}
+
+p {
+    color: #777777; 
+    margin: 10px;
+    line-height: 1.8;
+    font-size: 23px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif
+}
+
+
+.main {
+    background-color: #ffffff;
+    height: 700px;
+    margin: 70px 200px 90px 200px;
+    padding: 25px;
+    border: .5px solid #dddddd;
+    width: 960px;
+    position: relative;
+    bottom: -40%;
+
+}
+
+.container {
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/patterns/white-waves.png);
+    background-position: center;
+    width: 102%;
+    margin-left: -10px;
+    border-top: .5px solid black;
+
+} 
+
+h3 {
+    font-size: 28px;
+    color: #4aaaa5;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    padding: 1px;
+}
+
+#footer {
+    color: white;
+    text-align: center; 
+    padding: 25px;
+    background-color: #666666;
+    width: 103%;
+    margin-left: -10px;
+    border-top: 8px solid #4aaaa5;  
+}
+
+.js {
+    color: #777777; 
+    font-size: 19px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 2px 13px 2px 18px;
+    padding: 10px;
+    border: .5px solid #dddddd;
+}
+ 
+.email {
+    color: #777777; 
+    font-size: 19px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    margin: 2px 13px 2px 18px;
+    padding: 10px;
+    border: .5px solid #dddddd;
+}
+
+.message {
+    margin: 2px 13px 12px 13px;
+    height: 230px;
+    border: .5px solid #dddddd;
+    padding: 15px;
+    
+}
+
+.button {
+    background-color: #4aaaa5;
+    color: white;
+    font-size: 16px;
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+    border: none;
+    padding: 7px;
+    margin: 12px;
+
+}
+
+.parent {
+    position: absolute;
+}
+
+.image1 {
+    margin: 10px 10px 10px 10px;
+    float: left;
+    position: relative;
+    height: 180px;
+    width: 250px;
+    z-index: 0;
+}
+
+.flowers {
+    margin: 0px 0px 15px 10px;
+    width: 226px;
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    position: fixed;
+    z-index: 1;
+    color: white; 
+    float: left;
+    top: 220px;
+    height: 30px;
+    text-align: center;
+    padding: 9px;
+    font-size: 18px;
+}
+
+.image2 {
+    margin: 10px 10px 10px 10px;
+    float: right;
+    position: relative;
+    height: 180px;
+    width: 250px;
+}
+
+.animals {
+    margin: 0px 0px 20px 280px;
+    width: 226px;
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    position: fixed;
+    z-index: 1;
+    color: white;
+    float: right;
+    top: 220px;
+    text-align: center;
+    height: 30px;
+    padding: 9px;
+    font-size: 18px;
+}
+
+.image3 {
+    margin: 10px 10px 10px 10px;
+    float: left;
+    position: relative;
+    height: 180px;
+    width: 250px;
+}
+
+.eating {
+    color: white;
+    position: fixed;
+    float: left;
+    margin: 153px 0px 0px 10px;
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    text-align: center;
+    width: 226px;
+    height: 30px;
+    padding: 9px;
+    font-size: 18px;
+}
+
+.image4 {
+    margin: 10px 10px 10px 10px;
+    float: right;
+    position: relative;
+    height: 180px;
+    width: 250px;
+}
+
+.video {
+    color: white;
+    position: fixed;
+    float: right;
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    margin: 0px 0px 0px 280px;
+    top: 420px;
+    width: 226px;
+    padding: 9px;
+    height: 30px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.image5 {
+    margin: 10px 10px 10px 10px;
+    float: left;
+    position: relative;
+    height: 180px;
+    width: 250px;
+}
+
+.landscape {
+    color: white;
+    position: fixed;
+    float: left;
+    border: 3px solid #4aaaa5;
+    background-color: #4aaaa5;
+    margin: 335px 0px 0px 10px;
+    text-align: center;
+    font-size: 18px;
+    width: 226px;
+    height: 30px;
+    padding: 9px;
+}
+
